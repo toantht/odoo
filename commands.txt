@@ -1,0 +1,3 @@
+Docker init odoo database
+- docker compose run --rm odoo16 bash
+- odoo -i base -d odoo16 -r odoo -w odoo
